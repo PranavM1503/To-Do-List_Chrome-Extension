@@ -1,7 +1,7 @@
 #container{
 	background: white;
 	width: 400px;
-	margin: 100px auto;
+	margin: auto;
 	//border-style: solid; 
 	box-shadow: 0 0 3px rgba(0,0,0, 0.1); 
 }
